@@ -15,7 +15,7 @@ Crear un sistema de clasificación de mensajes que pueda identificar si un mensa
 ## 🛠️ **Instalación**
 1. Clona este repositorio en tu máquina local:
     ```bash
-    git clone https://github.com/tu_usuario/detector-de-spam.git
+    git clone https://github.com/fenyx144/spam-detection-AI.git
     cd detector-de-spam
     ```
 
